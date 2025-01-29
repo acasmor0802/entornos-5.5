@@ -1,7 +1,6 @@
 # entornos-5.5
 
 ## b) Herramienta utilizada: Lucidchart
----
 Se eligió Lucidchart por las siguientes razones:
 
 Colaboración en tiempo real: Permite trabajar en equipo simultáneamente, ideal para proyectos grupales.
